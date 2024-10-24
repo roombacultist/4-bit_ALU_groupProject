@@ -38,6 +38,10 @@
           <string>Label</string>
           <string>Control</string>
         </entry>
+        <entry>
+          <string>Bits</string>
+          <int>3</int>
+        </entry>
       </elementAttributes>
       <pos x="860" y="-540"/>
     </visualElement>
@@ -51,6 +55,10 @@
         <entry>
           <string>Bits</string>
           <int>4</int>
+        </entry>
+        <entry>
+          <string>intFormat</string>
+          <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
       <pos x="1180" y="-420"/>
